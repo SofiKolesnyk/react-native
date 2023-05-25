@@ -1,4 +1,4 @@
-import BackgroundImage from '../../../assets/images/bg-photo.jpg';
+import BackgroundImage from '../../assets/images/bg-photo.jpg';
 import { ImageBackground, StyleSheet } from "react-native";
 
 export const Background = ({ children }) => {

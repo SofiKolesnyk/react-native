@@ -6,13 +6,13 @@ import {
   View
 } from "react-native";
 
-import { uploadIcon } from "../../../assets/icons/icons";
+import { uploadIcon } from "../../assets/icons/icons";
 
 export const Avatar = () => {
   return (
     <View style={styles.avatarThumb}>
       <Image
-        source={require("../../../assets/images/user.jpg")}
+        source={require("../../assets/images/user.jpg")}
         style={styles.userAvatar}
       ></Image>
       <TouchableOpacity>

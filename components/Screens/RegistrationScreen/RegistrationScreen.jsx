@@ -11,8 +11,8 @@ import {
 	Platform,
 } from "react-native";
 
-import { Background } from '../Background/Background';
-import { Avatar } from '../Avatar/Avatar';
+import { Background } from '../../Background/Background';
+import { Avatar } from '../../Avatar/Avatar';
 
 const initialState = {
   name: "",

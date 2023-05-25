@@ -11,7 +11,7 @@ import {
 	Platform,
 } from "react-native";
 
-import { Background } from '../Background/Background';
+import { Background } from '../../Background/Background';
 
 const initialState = {
   name: "",
